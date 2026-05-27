@@ -4,7 +4,7 @@ A case study in shipping a real consumer product as a non-technical founder, usi
 
 ---
 
-**Who I am:** <FILL: full name> — sole founder of Neuron. I don't write code. I write specs, make architecture and product decisions, run customer and legal work, and orchestrate AI tools (Claude Code for backend and extension, Lovable for dashboard and web UI) to produce shipping software.
+**Who I am:** Nate Richards — sole founder of Neuron. I don't write code. I write specs, make architecture and product decisions, run customer and legal work, and orchestrate AI tools (Claude Code for backend and extension, Lovable for dashboard and web UI) to produce shipping software.
 
 **What Neuron is:** An AI-first shopping assistant that lives as a Chrome extension and web dashboard. The differentiators are bulk shipping threshold optimization — helping users hit free-shipping minimums by bundling intelligently across stores — and cross-retailer cart consolidation. Currently live at [neuroncart.com](https://neuroncart.com).
 
@@ -59,6 +59,6 @@ A meaningful amount of the work above is decisions about what *not* to build. Th
 
 ## Contact
 
-<richards.natet@gmail.com>  
-<www.linkedin.com/in/nate-richards-26978329>  
-<[FILL: personal site if any](https://medium.com/@richards.natet)>
+richards.natet@gmail.com  
+www.linkedin.com/in/nate-richards-26978329
+https://medium.com/@richards.natet
