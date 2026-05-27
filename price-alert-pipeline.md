@@ -2,7 +2,7 @@
 
 **Status:** Shipped  
 **Surface:** Backend (Supabase + edge functions) + Chrome extension + Email  
-**Last updated:** <FILL: date>
+**Last updated:** May 27,2026
 
 ---
 
