@@ -59,6 +59,6 @@ A meaningful amount of the work above is decisions about what *not* to build. Th
 
 ## Contact
 
-<FILL: email>  
-<FILL: LinkedIn URL>  
-<FILL: personal site if any>
+<richards.natet@gmail.com>  
+<www.linkedin.com/in/nate-richards-26978329>  
+<[FILL: personal site if any](https://medium.com/@richards.natet)>
