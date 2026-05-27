@@ -60,5 +60,5 @@ A meaningful amount of the work above is decisions about what *not* to build. Th
 ## Contact
 
 richards.natet@gmail.com  
-www.linkedin.com/in/nate-richards-26978329 
+www.linkedin.com/in/nate-richards-26978329  
 https://medium.com/@richards.natet
